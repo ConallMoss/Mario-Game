@@ -1,5 +1,5 @@
 ## Mario-Game
-Infinite Runner Style Mario game created for A-Level Coursework, achieving a mark of 70/70
+Infinite Runner Style Mario game created for A-Level Computer Science Coursework, achieving a mark of 70/70
 
 I created this project for my A-Level Coursework, where we had to create a project in a programming language of our choice and produce a full write up including Analysis, Design, Implemenation, Testing and Evaluation. 
 
